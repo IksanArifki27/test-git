@@ -1,0 +1,52 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: black ;
+}
+
+h1  {
+    color : green;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.masukan_nama {
+    padding-left :149px;
+    font-size  :20px;
+    font-family: sans-serif;
+    border-radius: 30px;
+    color: green;
+   
+}
+
+.password {
+    font-size: 20px;
+    padding-left: 130px;
+    border-radius: 30px;
+    font-family:sans-serif ;
+    color  : green;
+}
+
+.login {
+    margin-left:400px ;
+    margin-top: 20px;
+    color : green;
+
+}
+
+.latihan2 {
+    text-decoration: none;
+    font-size: 15px;
+    margin-left: 30px;
+    color : green;
+}
+
+.box {
+    
+    margin-top: 10px;
+}
+
+img {
+    margin-top: -20px;
+    margin-left: 300px;
+}
